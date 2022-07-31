@@ -1,0 +1,16 @@
+h1 {
+	color: orange;
+	background-color: yellow;
+}
+
+p {
+	color: blue;
+}
+
+#alert-text {
+	color: red;
+}
+
+.title {
+	color: grey;
+}

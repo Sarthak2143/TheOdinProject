@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.flex-container div {
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
+    flex: 0.25;
+}
