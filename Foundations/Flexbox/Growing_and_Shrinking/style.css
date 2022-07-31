@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+}
+
+.flex-container div {
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
+    flex: 1 1 0%;
+}
+
+/*Only div.two is selected here */
+.flex-container .two {
+    flex: 2 1 0%;
+}
