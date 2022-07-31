@@ -4,3 +4,9 @@
 [submodule "odin-recipes"]
 	path = odin-recipes
 	url = git@github.com:Sarthak2143/odin-recipes
+[submodule "exercises/css-exercises"]
+	path = exercises/css-exercises
+	url = git@github.com:Sarthak2143/css-exercises
+[submodule "projects/odin-recipes"]
+	path = projects/odin-recipes
+	url = git@github.com:Sarthak2143/odin-recipes
