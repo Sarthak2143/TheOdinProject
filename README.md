@@ -7,7 +7,7 @@ This repo is an archive of all of mine code, exercises and projects. All exercis
 - [Exercises](exercises/)
 
 Progress been tracked on
-[learning](github.com/Sarthak2143/learning).
+[learning](https://github.com/Sarthak2143/learning).
 
 **WORK IN PROGRESS!!**
 
